@@ -749,6 +749,7 @@ class RobustInvestmentUtils:
     from sklearn import preprocessing
     from sklearn.preprocessing import StandardScaler
     from sklearn.metrics import r2_score
+
 class NonLinearFactorInvesting:
 
     @staticmethod
@@ -1173,7 +1174,7 @@ class NonLinearFactorInvesting:
         return df_all_er, nn_mod
 
 
-class SAIInvestingUtils:
+class SAIInvesting:
     from sklearn.neural_network import MLPRegressor
     from sklearn.model_selection import train_test_split
     from sklearn import preprocessing
