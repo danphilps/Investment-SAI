@@ -1,5 +1,8 @@
 # Investment-SAI: Identifying and Mitigating Biases in Equity Selection Models Using Machine Learning 
 
+![image](https://github.com/danphilps/Investment-SAI/assets/55665698/ae62c738-c2e0-4a2f-89bf-dc4ddb2ad591)
+
+
 ## Stock selection model using a symbolic AI approach
 
 This case study, and the accompanying Python code lab, focuses on mitigating biases in equity selection models and develops three models:
