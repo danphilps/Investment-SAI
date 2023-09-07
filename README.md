@@ -1,11 +1,5 @@
 ![image](https://github.com/danphilps/Investment-SAI/assets/55665698/ae62c738-c2e0-4a2f-89bf-dc4ddb2ad591#center)
 
-img[src*='#center'] { 
-    display: block;
-    margin: auto;
-}
-
-
 # Investment-SAI: Identifying and Mitigating Biases in Equity Selection Models Using Machine Learning 
 
 ## Stock selection model using a symbolic AI approach
